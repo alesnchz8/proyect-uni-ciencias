@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "proyect-uni-ciencias",
-    "slug": "proyect-uni-ciencias",
+    "name": "UNI-Ciencias",
+    "slug": "uni-ciencias",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./src/assets/images/buho.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./src/assets/images/iconsplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FF5029"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./src/assets/images/buho.png",
         "backgroundColor": "#FFFFFF"
       }
     },
